@@ -47,7 +47,7 @@ This project includes clean and user-friendly screens for:
 
 ---
 
-[[Figma Project Link]([https://www.figma.com/design/kPdAdMNpARyTZCn2kaDjye/Food-Delivery?node-id=2-235&t=t0srQzFQb84auC2Z-1](https://www.figma.com/design/QmtQZWj5og38JajernXUu9/Login-and-Signup?node-id=2-16&t=SfxjvyWpdAvBe3yo-1))](#)
+[[Figma Project Link](https://www.figma.com/design/QmtQZWj5og38JajernXUu9/Login-and-Signup?node-id=2-16&t=SfxjvyWpdAvBe3yo-1)](#)
 
 
 ---
